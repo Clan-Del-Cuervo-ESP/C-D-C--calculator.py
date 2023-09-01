@@ -1,0 +1,1 @@
+Requisitos: tener Python. Disfruta del script. Gracias
